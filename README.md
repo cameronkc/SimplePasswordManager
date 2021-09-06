@@ -22,21 +22,13 @@ Password Manager requires [Python](https://www.python.org/) 3.9+ to run
  
 #### Clone the Repository from github
  ```sh
-git clone https://github.com/PVPPBoolean/Password-Manager.git
-```
-
-#### Install all the requirements
- ```sh
-pip install -r requirements.txt
+git clone https://github.com/cameronkc/SimplePasswordManager.git
 ```
 #### Running the application
 ```
-Run the pwmanager.pyw
+Run the PassVault.py
 ```
-
-> Note: `Do not share the secret.key and pwmdatabase.db file as it contains sensitive information`
 ---
 #### _Developers_:
 ---
-- [_Manish Jalui_](https://github.com/manishjalui11)
-- [_Kartik Karkera_](https://github.com/Kartik11082)
+- [_Manish Jalui_]https://www.linkedin.com/in/cameron-mcdowell-72aa59190/)
