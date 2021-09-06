@@ -31,4 +31,4 @@ Run the PassVault.py
 ---
 #### _Developers_:
 ---
-- [_Manish Jalui_]https://www.linkedin.com/in/cameron-mcdowell-72aa59190/)
+- [_Cameron McDowell_]https://www.linkedin.com/in/cameron-mcdowell-72aa59190/)
